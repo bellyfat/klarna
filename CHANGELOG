@@ -1,0 +1,27 @@
+PYTHON-API
+==========
+
+v2.1.1
+----------------
+Date: 2011-08-25
+
+* fix digest calculation with non-ascii chars
+
+v2.1.0
+----------------
+Date: 2011-08-05
+
+* switch to sha512 hash
+
+* refactor pclass storage.
+
+* add country convenience methods
+
+* implement ILT tests API
+
+* change clientvsn syntax
+
+v2.0.0
+----------------
+Date: 2011-06-28
+First release
