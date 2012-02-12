@@ -9,7 +9,7 @@ def read(fname):
 
 
 setup(
-	name="Klarna API",
+	name="klarna",
 	version="2.1.1",
 	author="David Keijser",
 	description=("The Klarna API used to communicate with Klarna Online"),
